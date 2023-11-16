@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @GustavoPlopes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, meu nome é Gustavo Pereira Lopes tenho 25 anos.
 
-<!---
-GustavoPlopes/GustavoPlopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Estou na caminhada para me tornar um programador.
+
+- 🌱 Atualmente estou aprendendo a linguagem de programação python.
+
+- 💞️ Estou a procura de oprotunidades tanto de trabalho quanto de aprendizado.
+
+- 📫 Contatos ↓
+-   gugubmb@gmail.com
+-   (61) 98272-1101
+
