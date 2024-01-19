@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Gustavo Pereira Lopes tenho 25 anos.
 
-- 👀 Estou na caminhada para me tornar um programador.
+- 👀 Estou na caminhada para me tornar um desenvolvedor.
 
 - 🌱 Atualmente estou aprendendo a linguagem de programação python e seus frameworks.
 
