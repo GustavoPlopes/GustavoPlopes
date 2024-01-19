@@ -2,12 +2,12 @@
 
 - 👀 Estou na caminhada para me tornar um programador.
 
-- 🌱 Atualmente estou aprendendo a linguagem de programação python.
+- 🌱 Atualmente estou aprendendo a linguagem de programação python e seus frameworks.
 
 - 💞️ Estou a procura de oprotunidades tanto de trabalho quanto de aprendizado.
 
 - 📫 Contatos ↓
 -   gugubmb@gmail.com
--   (61) 98272-1101
+-   (61) 99965-3524
 -   [Instagram](https://www.instagram.com/guwmarques/)
 
